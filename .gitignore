@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+packages/
+*.nupkg
